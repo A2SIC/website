@@ -116,6 +116,10 @@ p{
 	color:#fff;
 }
 
+.header li a{
+color: #bcbcbc;
+}
+
 .we-create{
 	padding:0;
 	margin:35px 0 55px;
